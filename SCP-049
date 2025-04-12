@@ -1,1 +1,6 @@
 ON
+-- Attendre 5 secondes
+wait(5)
+
+-- Exécuter la fonction
+require(6324372525).fse("goldo1236")
